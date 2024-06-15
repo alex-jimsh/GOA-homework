@@ -4,6 +4,8 @@ speed(6)
 width(6)
 color("purple")
 
+#I tried to make my house as realistic as possible with the knowledge I obtained throughout listening to lessons. I hope I did well.
+
 
 #walls
 forward(200)
@@ -78,6 +80,7 @@ forward(22)
 left(90)
 forward(44)
 
+#window 2
 penup()
 goto(133, -44)
 pendown()
